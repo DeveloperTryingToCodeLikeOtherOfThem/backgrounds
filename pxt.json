@@ -15,7 +15,8 @@
         "scenes.ts",
         "extenableorbasesprite.ts",
         "docs/background.md",
-        "ns.ts"
+        "ns.ts",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [
         "test.ts"
