@@ -32,7 +32,7 @@ namespace scenes {
     *  gets a background color
     */
       //% blockId="game_background_color" block="background color %color=colorWheelPicker"
-      //% weight=90
+      //% weight=85
     export function backgroundColor () {
         const scene = updated.currentScene()
         return scene.background.color
